@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kursovaya</string>
+    <string name="cbros">Сброс</string>
+    <string name="sec">00:00:00</string>
+    <string name="start">Старт</string>
+    <string name="krug">Круг</string>
+    <string name="secund">sec</string>
+    <string name="taim">taim</string>
+    <string name="secuntext">Секундомер</string>
+    <string name="taimtext">Таймер</string>
+    <string name="taimpng">TODO</string>
+    <string name="secungpng">TODO</string>
+    <string name="startt">Старт</string>
+    <string name="otmena">Отмена</string>
+    <string name="pause">Пауза</string>
+    <string name="timetex">Таймер</string>
+    <string name="secundtex">Секундомер</string>
+    <string name="taimpn">TODO</string>
+    <string name="secpn">TODO</string>
+</resources>
